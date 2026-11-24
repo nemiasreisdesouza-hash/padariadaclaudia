@@ -181,8 +181,8 @@ strong { font-weight: 600; }
 .hero-overlay {
   position: absolute; inset: 0;
   background:
-    linear-gradient(90deg, rgba(36,19,9,0.88) 0%, rgba(50,28,12,0.74) 42%, rgba(50,28,12,0.45) 72%, rgba(50,28,12,0.58) 100%),
-    linear-gradient(180deg, rgba(36,19,9,0.35) 0%, rgba(36,19,9,0.05) 35%, rgba(36,19,9,0.55) 100%);
+    linear-gradient(90deg, rgba(36,19,9,0.84) 0%, rgba(50,28,12,0.70) 40%, rgba(50,28,12,0.48) 72%, rgba(50,28,12,0.62) 100%),
+    linear-gradient(180deg, rgba(36,19,9,0.40) 0%, rgba(36,19,9,0.10) 35%, rgba(36,19,9,0.60) 100%);
 }
 .hero-content { position: relative; z-index: 2; max-width: 780px; padding-top: 1rem; }
 .hero-eyebrow { color: var(--gold-soft); margin-bottom: 1.5rem; }
